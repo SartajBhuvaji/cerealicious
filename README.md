@@ -1,7 +1,7 @@
-# cerealicious
+# Cerealicious
 A project under CPSC 5320 Visual Analytics
 
-A fun way to see nutrients in our milk and cereals
+A fun way to visualize nutrients in milk and cereals!
 
 
 # Motivation
@@ -22,15 +22,17 @@ nutritional values and affordability when choosing milk and cereal options.
 
 
 # Intended Audience
-- Budget-conscious individuals, such as college students or those on a tight budget, seeking affordable
-breakfast options.
+- Budget-conscious individuals, such as college students or those on a tight budget, seeking affordable breakfast options.
 - Health-conscious individuals interested in selecting nutritious breakfast choices.
 - Dietitians and nutritionists who analyze and provide guidance on meal planning and nutrition.
 
+
 # Questions Answered
-- What are the different constituents in different kinds/types/brands of milk and cereal?
+- What are the different nutrient constituents in different kinds/types of milk and cereal? 
 - What is the most affordable breakfast option per serving?
+- Can we compare different cereal and milk combinations?
 - What are the environmental impacts of a glass of milk?
+
 
 
 # Dataset and Tools
