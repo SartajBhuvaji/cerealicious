@@ -45,7 +45,3 @@ Tools :
    - Excel
    - Python
 - Visualization: D3.js
-
-
-
-
